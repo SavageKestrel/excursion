@@ -27,6 +27,9 @@ h2 {
   color: Gray;
 }
 
+#sp {
+  border-top: 50;
+}
 footer {
   text-align: right;
   color: Gray;
